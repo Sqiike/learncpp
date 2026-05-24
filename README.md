@@ -1,2 +1,2 @@
 # learncpp
-Excercices from Learncpp.com
+Excercices from learncpp.com
